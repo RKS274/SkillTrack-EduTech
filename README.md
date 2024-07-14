@@ -1,1 +1,1 @@
-# StudyNotion Edtech Project
+# SkillTrack Edtech Project
