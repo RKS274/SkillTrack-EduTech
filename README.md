@@ -2,6 +2,14 @@
 
 ### SkillTrack is an educational platform developed to facilitate user authentication and skill tracking. It includes a login and signup system, allowing users to create and modify profiles with personal details and profile pictures. The platform features a diverse course catalog accessible from a user-friendly interface that includes a Home page, About page, and Contact Us page. SkillTrack seamlessly integrates both frontend and backend technologies to ensure smooth navigation and secure user experience. Through its comprehensive design, it offers full authorization and authentication processes, making it an ideal solution for educational and skill development needs.
 
+
+<div align="center" >
+  <video src="https://github.com/user-attachments/assets/a6ce2aa7-f22c-463e-956f-c981afda409c"  />
+</div>
+
+
+
+
 ## ► Features
 |Feature|Description|
 |-|-|
