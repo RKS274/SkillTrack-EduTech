@@ -4,7 +4,9 @@
 
 
 <div align="center" >
-  <video src="https://github.com/user-attachments/assets/a6ce2aa7-f22c-463e-956f-c981afda409c"  />
+  <video src="https://github.com/user-attachments/assets/a6ce2aa7-f22c-463e-956f-c981afda409c"  muted
+            loop
+            autoPlay />
 </div>
 
 
